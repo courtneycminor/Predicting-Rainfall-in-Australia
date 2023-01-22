@@ -1,1 +1,2 @@
 # Predicting-Rainfall-in-Australia
+This notebook is based on an article I came across titled Predictive Modelling – Rain Prediction in Australia With Python (https://www.analyticsvidhya.com/blog/2021/06/predictive-modelling-rain-prediction-in-australia-with-python/). To help me better understand how Logistic Regression models work, I used this article as a guided project outline as I continue to learn more about Machine Learning.
